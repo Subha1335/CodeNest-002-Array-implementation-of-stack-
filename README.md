@@ -1,5 +1,5 @@
 # CodeNest-002-Array-implementation-of-stack-
-class BookStack:
+'''class BookStack:
     def __init__(self):
         self.stack = []
 
